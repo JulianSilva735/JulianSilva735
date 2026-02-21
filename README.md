@@ -1,9 +1,8 @@
 # 👋 Hola, soy Julián Silva
 
-💻 Desarrollador Frontend | HTML • CSS • JavaScript  
+💻 Desarrollador Fullstack Junior | JavaScript • React • APIs • SQL
 🎯 Enfocado en crear interfaces modernas, accesibles y funcionales.  
-🚀 Actualmente ampliando habilidades en React y desarrollo fullstack.  
-
+🚀 Construyo aplicaciones web escalables, limpias y centradas en experiencia de usuario.
 ---
 
 ## 👨‍💻 Sobre mí
@@ -44,7 +43,8 @@ Red social interactiva donde los usuarios pueden agregar, eliminar y dar like a 
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/julian-silva-fullstack/
+- Email: Juliansilva736@gmail.com
 
 ---
 
-⭐ *Siempre abierto a oportunidades laborales y colaboraciones en proyectos frontend.*
+⭐ *Siempre abierto a oportunidades laborales y colaboraciones en proyectos fullstack.*
