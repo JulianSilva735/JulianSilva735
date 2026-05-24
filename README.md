@@ -1,30 +1,25 @@
 # 👋 Hola, soy Julián Silva
 
-💻 Desarrollador Fullstack Junior | JavaScript • React • APIs • SQL
+💻 Desarrollador Fullstack Junior | NestJS • React • APIs • SQL, JAVA
 🎯 Enfocado en crear interfaces modernas, accesibles y funcionales.  
 🚀 Construyo aplicaciones web escalables, limpias y centradas en experiencia de usuario.
 ---
 
 ## 👨‍💻 Sobre mí
-Soy Ingeniero de Sistemas recién graduado con enfoque en desarrollo web frontend. Me especializo en construir aplicaciones web interactivas, organizadas y escalables utilizando buenas prácticas de código, diseño responsivo y arquitectura modular.  
+Soy Ingeniero de Sistemas graduado y con enfoque en desarrollo FullStack. Me especializo en construir aplicaciones web interactivas, organizadas y escalables utilizando buenas prácticas de código, diseño responsivo y arquitectura modular.  
 
 Me motiva aprender constantemente, resolver problemas reales con tecnología y formar parte de equipos donde pueda aportar valor y seguir creciendo profesionalmente.
 
 ---
 
 ## 🛠️ Stack Tecnológico
-- HTML5
-- CSS3 (BEM, Responsive Design)
-- JavaScript (ES6+)
-- Git & GitHub
-- LocalStorage
-- DOM Manipulation
-
-📚 Actualmente aprendiendo:
-- React
-- APIs
-- Arquitectura Frontend
-
+- Backend: FastAPI, NestJS, Spring Boot
+- FrontEnd: ReactJS.
+- Cloud & DevOps: Docker, Kubernetes (K3s), Linux (Bash), Git.
+- Bases de Datos: PostgreSQL, MongoDB.
+- Complementario: Automatización con Python
+- Seguridad (SAST, OSINT)
+- Metodologías: Scrum, Kanban.
 ---
 
 ## 📂 Proyectos Destacados
@@ -42,8 +37,8 @@ Red social interactiva donde los usuarios pueden agregar, eliminar y dar like a 
 ---
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/julian-silva-fullstack/
-- Email: Juliansilva736@gmail.com
+- LinkedIn: https://www.linkedin.com/in/julian-andres-silva-beltran-devfs
+- Email: jsilvabe@outlook.com
 
 ---
 
