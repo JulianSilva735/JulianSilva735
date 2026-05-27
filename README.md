@@ -1,8 +1,8 @@
-# 👋 Hola, soy Julián Silva
+# Hola, soy Julián Silva
 
-💻 Desarrollador Fullstack Junior | NestJS • React • APIs • SQL, JAVA
-🎯 Enfocado en crear interfaces modernas, accesibles y funcionales.  
-🚀 Construyo aplicaciones web escalables, limpias y centradas en experiencia de usuario.
+ Desarrollador Fullstack Junior | NestJS • React • APIs • SQL, JAVA
+ Enfocado en crear interfaces modernas, accesibles y funcionales.  
+ Construyo aplicaciones web escalables, limpias y centradas en experiencia de usuario.
 ---
 
 ## 👨‍💻 Sobre mí
@@ -24,22 +24,22 @@ Me motiva aprender constantemente, resolver problemas reales con tecnología y f
 
 ## 📂 Proyectos Destacados
 
-### 💸 Expense Tracker App
+### Expense Tracker App
 Aplicación web para gestionar gastos personales, visualizar estadísticas y controlar presupuestos.  
 🔗 Repo: https://github.com/JulianSilva735/web_project_expenses_es  
 
 ---
 
-### 🌎 Around The U.S.
+### Around The U.S.
 Red social interactiva donde los usuarios pueden agregar, eliminar y dar like a imágenes.  
 🔗 Repo: https://github.com/JulianSilva735/web_project_around_es  
 
 ---
 
-## 📫 Contacto
+## Contacto
 - LinkedIn: https://www.linkedin.com/in/julian-andres-silva-beltran-devfs
 - Email: jsilvabe@outlook.com
 
 ---
 
-⭐ *Siempre abierto a oportunidades laborales y colaboraciones en proyectos fullstack.*
+*Siempre abierto a oportunidades laborales y colaboraciones en proyectos fullstack.*
